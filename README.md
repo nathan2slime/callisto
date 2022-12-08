@@ -101,3 +101,11 @@ yarn android
 ### Observation
 
 To register vehicles you need to login with admin user
+
+### Assets
+![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/12391032.png)
+![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/1392103.png)
+![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/2391032.png)
+![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/3129310.png)
+![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/930123.png)
+![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/93012391.png)
