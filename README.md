@@ -103,7 +103,7 @@ yarn android
 - To register vehicles you need to login with admin user
 - If you are in an admin account, and you want to manage a car, just click on the car card
 
-### Assets
+### Screenshots
 ![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/12391032.png)
 ![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/1392103.png)
 ![](https://github.com/nathan2slime/callisto/blob/master/.github/assets/2391032.png)
