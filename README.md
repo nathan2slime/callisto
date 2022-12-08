@@ -85,3 +85,6 @@ Enter the ```callisto/app``` directory. Make sure you have an android emulator o
 ```
 yarn android
 ```
+
+### Observation
+To register vehicles you need to login with admin user
