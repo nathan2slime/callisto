@@ -47,7 +47,7 @@ Create a ```local.properties``` file in the path ```callisto/app/android``` and 
 sdk.dir=C:\\Users\\username\\AppData\\Local\\Android\\Sdk
 ```
 
-Create an ```.env``` file in the ```callisto/api/path```, and add the environment variables
+Create an ```.env``` file in the path ```callisto/api```, and add the environment variables
 ```
 DB_CLIENT=mysql2
 DB_PASSWORD=Enter the password of the database here
