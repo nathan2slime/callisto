@@ -1,0 +1,59 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Car sales system",
+  "workspaces": {
+    "packages": [
+      "api",
+      "app",
+      "libs/**"
+    ],
+    "nohoist": [
+      "**/react",
+      "**/react-native",
+      "**/react-native/**",
+      "**/@react-native-async-storage/async-storage",
+      "**/@react-native-async-storage/async-storage/**",
+      "**/redux-persist",
+      "**/react-native-dotenv",
+      "**/react-native-dotenv/**",
+      "**/react-native-vector-icons",
+      "**/react-native-vector-icons/**",
+      "**/redux-persist/**",
+      "**/react-native-modals",
+      "**/react-native-modals/**",
+      "**/react-redux",
+      "**/@hookform/resolvers/**",
+      "**/@hookform/resolvers/",
+      "**/react-redux/**",
+      "**/@reduxjs/toolkit/**",
+      "**/@reduxjs/toolkit"
+    ]
+  },
+  "scripts": {
+    "commit": "git-cz",
+    "prepare": "husky install",
+    "start": "turbo start --no-daemon --no-cache",
+    "test": "turbo test --filter=@cars/api --filter=@cars/ui  --no-daemon --no-cache",
+    "build": "turbo build --no-daemon --no-cache",
+    "dev": "turbo dev --no-daemon --no-cache"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.2.0",
+    "@commitlint/config-conventional": "^17.2.0",
+    "husky": "^8.0.2",
+    "prettier": "^2.7.1",
+    "turbo": "^1.6.3"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "author": "Francisco Cajlon",
+  "license": "MIT",
+  "dependencies": {
+    "commitizen": "^4.2.5"
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "extends": "@cars/tsconfig/base.json",
+  "include": ["core/", "types/", "index.ts"],
+  "exclude": ["node_modules"]
+}
