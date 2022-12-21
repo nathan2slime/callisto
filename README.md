@@ -87,7 +87,7 @@ yarn migrate
 Enter the `callisto/api` directory and run the command below
 
 ```
-yarn start
+yarn dev
 ```
 
 ### Starting app
