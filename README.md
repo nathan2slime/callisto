@@ -1,6 +1,6 @@
 <div align="center">
   <a href="#">
-    <img src="https://github.com/nathan2slime/cars/blob/master/client/assets/cars_wall.svg" alt="Cars" width="120" height="120">
+    <img src="https://github.com/nathan2slime/callisto/blob/master/app/android/app/src/main/res/drawable/icon.png?raw=true" alt="Cars" width="120" height="120">
   </a>
 
   <h3 align="center">Cars</h3>
